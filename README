@@ -1,0 +1,5 @@
+One of my first projects in C++
+simple snake game
+Controls: w, s, a, d
+snake head "O" eats fruits and grows
+it can go through walls but not through itself (game over)
